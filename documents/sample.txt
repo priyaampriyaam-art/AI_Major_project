@@ -1,0 +1,5 @@
+This is a sample document for AI Major Project.
+Artificial Intelligence is intelligence demonstrated by machines.
+RAG stands for Retrieval Augmented Generation.
+It combines retrieval system with generation system.
+This project uses vector store and embeddings to answer questions from documents.

@@ -1,0 +1,16 @@
+Question,Expected Source,Retrieved Source,Correct?
+What is RAG?,sample.pdf page 1,,Yes
+What is Artificial Intelligence?,sample.pdf page 1,,Yes
+What does RAG combine?,sample.pdf page 1,,Yes
+What is vector store?,sample.pdf,,Yes
+What is embedding?,sample.pdf,,Yes
+What is ChromaDB used for?,sample.pdf,,Yes
+What is HuggingFace?,sample.pdf,,Yes
+What is retrieval?,sample.pdf,,Yes
+What is generation?,sample.pdf,,Yes
+How does this project work?,sample.pdf,,Yes
+Who is company CEO?,Not available,,Should Refuse
+What is leave policy?,Not available,,Should Refuse
+What is attendance rule?,Not available,,Should Refuse
+What is salary?,Not available,,Should Refuse
+Who is HR manager?,Not available,,Should Refuse
